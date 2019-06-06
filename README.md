@@ -2,14 +2,15 @@
 =================================================
 
 ## Lab 01 - Deployment
+[![Build Status](https://travis-ci.com/pnwjce/401-Lab-01.svg?branch=master)](https://travis-ci.com/pnwjce/401-Lab-01)
 
 
 ### Author: Jessica Elliott
 
 
 ### Links and Resources
-* [repo]()
-* [travis]()
+* [repo](https://github.com/pnwjce/401-Lab-01)
+* [travis](https://travis-ci.com/pnwjce/401-Lab-01)
 
 
 
