@@ -14,12 +14,13 @@
 
 
 ### Modules
-#### ``
+#### `pol.js`
 
 
 ##### Exported Values and Methods
+###### `isAlive(dead) -> boolean`
 
-###### ``
+
 Usage Notes or examples
 
 #### Running the app
